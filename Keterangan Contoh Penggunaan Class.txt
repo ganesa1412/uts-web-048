@@ -1,0 +1,10 @@
+Keterangan Contoh Penggunaan Class
+
+- Customer_Order
+Class ini berisi fungsi-fungsi yang berkaitan dengan proses pemesanan oleh customer atau pembeli, seperti set nomor meja, menambah pesanan dan melihat detail pesanan.
+
+- Stand_Order
+Class ini digunakan oleh akun Stand untuk fungsi-fungsi yang berkaitan dengan order, misalnya lihat daftar pesanan, detail pesanan dan set status pesanan.
+
+- Stand_Menu & Stand_Menu_Category
+Berisi fungsi-fungsi CRUD pada akun Stand untuk mengelola (menambah/mengedit/menghapus) kategori menu dan daftar menu pada Stand masing-masing.
